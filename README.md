@@ -8,7 +8,7 @@ GastroBot is a RAG framework Chinese gastric disease chatbot. It uses 25 gastric
 An overview of GastroBot architecture can be seen below:
 
 <p align="center">
-  <img src="https://github.com/hujili007/ragbot/blob/7424152b37ced2c0136dade4fa7d0e3a8a5463c8/Architecture.png" alt="GastroBot architecture diagram" border="0">
+  <img src="https://github.com/hujili007/ragbot/blob/7424152b37ced2c0136dade4fa7d0e3a8a5463c8/Architecture.png" alt="GastroBot architecture diagram" border="0" width=60%>
 </p>
 
 ## Getting Started
@@ -43,7 +43,7 @@ Open the browser and enter the address http://127.0.0.1:port/
 Start Q&A with it！
 
 <p align="center">
-  <img src="https://github.com/hujili007/ragbot/blob/7424152b37ced2c0136dade4fa7d0e3a8a5463c8/GastroBot.png" alt="GastroBot Q&A" border="0">
+  <img src="https://github.com/hujili007/ragbot/blob/7424152b37ced2c0136dade4fa7d0e3a8a5463c8/GastroBot.png" alt="GastroBot Q&A" border="0" width=60%>
 </p>
 
 ## Acknowledgement
