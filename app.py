@@ -9,8 +9,8 @@ from llama_index.llms import OpenAI
 from llama_index import ServiceContext
 
 
-openai.api_key = "sk-Ibjy7xLl6mUjx04YF0097b2496Ac4384B56f04014903557f"
-openai.api_base = "https://openkey.cloud/v1"
+openai.api_key = ""
+openai.api_base = ""
 
 @st.cache_resource(show_spinner=False)  # type: ignore[misc]
 def load_index() -> Any:
