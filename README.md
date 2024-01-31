@@ -22,11 +22,18 @@ $ pip install -r requirements.txt
 
 ### step 2 Create index
 
-```
-Executing the code in the build_index.ipynb file will build the index locally. The built index is saved in the vector_index folder.
-```
 
-### step 3 Run app.py
+Executing the code in the build_index.ipynb file will build the index locally. The built index is saved in the vector_index folder.
+
+
+
+### step 3 Download the fine-tuned embedding model
+
+
+Download the fine-tuned embedded model and copy it to the ./embed_model folder.[https://drive.google.com/file/d/1mChmpE1kjrgbav7Fzh0FPfr9LpZPI60k/view?usp=sharing](https://drive.google.com/file/d/1mChmpE1kjrgbav7Fzh0FPfr9LpZPI60k/view?usp=sharing)
+
+
+### step 4 Run app.py
 
 ```
 $ streamlit run app.py
